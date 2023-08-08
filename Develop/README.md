@@ -1,7 +1,7 @@
-# dfnsa 
+# Professional Readme generator 
   ![github License](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  afjfdsa
+  Allows users to generate readme file for their project.
   ## Table of Contents 
 
 * [Installation](#installation)
@@ -14,15 +14,15 @@
 
 * [Questions](#questions)
 ## Technologies
- afdsj
+ node js, js inquirer.
 ## Installation
-afkjfdsa
+step 1, step 2, step 3
 ## Usage
-fakjfdsa
+screenshot link
 ## Deployment
-fakjhfdsa
+github.com/gmtzz
 ## Sources
-fakjfdsa
+source 1 source 2
 
 ## License
         this application is licensed under MIT. 
