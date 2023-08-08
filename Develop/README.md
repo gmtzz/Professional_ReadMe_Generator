@@ -1,7 +1,7 @@
-# Professional Readme generator 
+# readme generator 
   ![github License](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  Allows users to generate readme file for their project.
+  this app is used to make professional readme files
   ## Table of Contents 
 
 * [Installation](#installation)
@@ -14,15 +14,15 @@
 
 * [Questions](#questions)
 ## Technologies
- node js, js inquirer.
+ node js, js, inquirer,
 ## Installation
 step 1, step 2, step 3
 ## Usage
-screenshot link
+demovideo.link
 ## Deployment
 github.com/gmtzz
 ## Sources
-source 1 source 2
+youtube.com/example, website.com
 
 ## License
         this application is licensed under MIT. 
